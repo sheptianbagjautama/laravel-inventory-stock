@@ -41,10 +41,10 @@ Didalam aplikasi ini terdapat fitur-fitur berikut ini :
 4. Export Invoice Product In 
 
 Package yang digunakan 
-https://github.com/barryvdh/laravel-dompdf
-https://github.com/Maatwebsite/Laravel-Excel
-https://github.com/yajra/laravel-datatables
-https://github.com/LaravelCollective/html
+- https://github.com/barryvdh/laravel-dompdf
+- https://github.com/Maatwebsite/Laravel-Excel
+- https://github.com/yajra/laravel-datatables
+- https://github.com/LaravelCollective/html
 
 
 Berikut adalah beberapa screen shoot dari aplikasi ini :
